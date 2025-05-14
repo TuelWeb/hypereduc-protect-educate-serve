@@ -110,4 +110,8 @@
   .max-container {
     @apply max-w-7xl mx-auto;
   }
+  
+  .text-gradient-to-r {
+    @apply bg-gradient-to-r bg-clip-text text-transparent;
+  }
 }
